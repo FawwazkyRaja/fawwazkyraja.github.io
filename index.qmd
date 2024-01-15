@@ -2,7 +2,7 @@
 title: "Pengaruh Ekspor Minyak Kelapa Sawit Terhadap PDRB Kota Riau Pada Tahun 2013-2022"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
 author: "Fawwazky Raja Putra Kiswandi (220204121)"
-date: 2024-01-14
+date: 2024-01-15
 number-sections: true
 format:
   html: default
@@ -30,20 +30,22 @@ Dalam upaya mengembangkan perekonomian, Pemerintah Daerah Provinsi Kalimantan Se
 
 ### Ruang Lingkup
 
-Dalam penelitian ini akan dibatasi pembahasan mengenai bagaimana inflasi memiliki dampak terhadap pertumbuhan ekonomi, dengan fokus pada periode sepuluh tahun belakangan. Ruang lingkup penelitian ini akan terbatas pada penggunaan data yang diperoleh dari situs web Kementerian Dalam Negeri.
+Dalam artikel ini, akan dibatasi pembahasan mengenai bagaimana pengaruh ekspor kelapa sawit terhadap PDRB kota riau pada 10 tahun terakhir yang dimulai pada tahun 2013-2022.
 
 ### Rumusan Masalah
 
 Berdasarkan pembahasan latar belakang di atas, dapat diidentifikasi beberapa indikator yang menjadi pokok permasalahan dalam penelitian ini. Rumusan masalah yang diajukan adalah sebagai berikut:
+
 1. Bagaimana pengaruh ekspor kelapa sawit terhadap PDRB kota riau pada 10 tahun terakhir yang dimulai pada tahun 2013-2022?
 
 ### Tujuan Penelitian 
 
 Berdasarkan konteks latar belakang dan rumusan masalah, tujuan ini dapat dirinci sebagai berikut:
-1. Tujuan penulisan ini adalah untuk  menganalisis pengaruh ekspor kelapa sawit terhadap PDRB kota riau pada 10 tahun terakhir yang dimulai pada tahun 2013-2022?
+
+1. Tujuan penulisan ini adalah untuk  menganalisis pengaruh ekspor kelapa sawit terhadap PDRB kota riau pada 10 tahun terakhir yang dimulai pada tahun 2013-2022.
 
 ### Manfaat Penelitian
-Berdasarkan konteks latar belakang dan rumusan masalah, manfaat dibuatnya artikel ini yaitu untuk mengetahui seberapa besar pengaruh ekspor kelapa sawit terhadap PDRB kota Riau pada 10 tahun terakhi.
+Berdasarkan konteks latar belakang dan rumusan masalah, manfaat dibuatnya artikel ini yaitu untuk mengetahui seberapa besar pengaruh ekspor kelapa sawit terhadap PDRB kota Riau pada 10 tahun terakhir.
 
 ### Package
 
@@ -57,17 +59,17 @@ library(WDI)
 
 ## Studi Pustaka
 
-### EKSPOR 
+### Ekspor
 Menurut (Rachman, 2013) ekspor merupakan salah satu kegiatan perdagangan yang berperan besar dalam ekonomi regional dan nasional. Tren perbaikan ekonomi gloal 
 mempengaruhi perekonomian kawasan, terutama aktivitas perdagangan luar negeri, yaitu ekspor. Dengan kata lain, salah satu faktor yang mempengaruhi kegiatan ekspor adalah keadaan perekonomian dunia. Jika situasi ekonomi global membaik, maka akan berdampak positif pada aktivitas perdagangan dunia, termasuk ekspor produk pertanian. 
 
-### PERTUMBUHAN EKONOMI 
+### Pertumbuhan Ekonomi
 Pertumbuhan ekonomi, seperti yang dijelaskan oleh Kuznets (1971), merujuk pada peningkatan kapasitas jangka panjang suatu negara untuk menyediakan berbagai barang ekonomi bagi penduduknya. Peningkatan kapasitas ini dapat dicapai melalui kemajuan teknologi, penyesuaian kelembagaan, dan ideologis sebagai respons terhadap berbagai tuntutan kondisi yang ada. Produk Domestik Bruto (PDB) menjadi faktor penting dalam mengukur pertumbuhan ekonomi, menggambarkan total produksi barang dan jasa dalam satu waktu tertentu di suatu negara atau wilayah.
 
 ### PDRB 
 Produk Domestik Regional Bruto (PDRB) merupakan jumlah keseluruhan nilai tambah yang dihasilkan di seluruh sektor ekonomi dalam suatu wilayah atau daerah. Nilai tambah total diperoleh dengan menghitung output atau nilai yang dihasilkan dan menguranginya dengan biaya. Komponen nilai tambah total mencakup pendapatan (seperti gaji, suku bunga, biaya penggunaan lahan, dan keuntungan), depresiasi, dan pajak tidak langsung bersih. Oleh karena itu, PDRB daerah dihitung dengan menambahkan total nilai tambah dari setiap sektor ekonomi.
 
-### PERTANIAN 
+### Pertanian
 Sektor pertanian merujuk pada kegiatan manusia yang melibatkan budidaya tanaman dan pemanfaatan sumber daya hayati pertanian untuk menghasilkan sumber pangan, energi, dan pengelolaan lingkungan. Secara lebih luas, sektor pertanian mencakup subsektor tanaman pangan, perkebunan, peternakan, kehutanan, dan perikanan. Sektor ini memegang peran penting sebagai salah satu sumber pendapatan utama bagi masyarakat Indonesia. (Sukirno, 2007).
 
 ## Metode Penelitian
